@@ -30,11 +30,8 @@
   <!-- <img alt="Django" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/> -->
   <!-- <img alt="C" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> -->
 </p>
-  
+  <!--
 <h3 style="font-size: 2rem;font-weight:bold" align="center">Socials:</h1>
-
-
-<!--
 <p align="center" margin="0px 50px">
   <a href="https://www.linkedin.com/in/pjcdz/">
     <img alt="Instagram" width="40px" src="https://img.icons8.com/?size=512&id=13930&format=png">
@@ -48,9 +45,8 @@
   <a href="https://twitter.com/pjcdz_">
     <img alt="Twitter" width="40px" src="https://img.icons8.com/?size=512&id=13963&format=png">
   </a>
-  -->
 </p>
-  
+  -->
 
   
 <p align="center">
