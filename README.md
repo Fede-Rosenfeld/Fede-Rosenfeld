@@ -1,12 +1,12 @@
 <h1 style="font-size: 2rem;font-weight:bold" align="center">Federico Rosenfeld</h1>
 <h3 align="center">1st year Software Engineer Student at UCA</h3>
-<p align="center">technology enthusiast</p>
+<p align="center">Technology enthusiast</p>
 
 <br/>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fede-Rosenfeld&theme=dracula&hide_border=false"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fede-Rosenfeld&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fede-Rosenfeld&theme=transparent&border_radius=15&mode=weekly" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fede-Rosenfeld&langs_count=7&theme=transparent"/>
 </div>
   
 <h3 style="font-size: 2rem;font-weight:bold" align="center">Languages and Tools:</h1>
