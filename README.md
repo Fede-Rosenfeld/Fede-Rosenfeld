@@ -1,5 +1,5 @@
 <h1 style="font-size: 2rem;font-weight:bold" align="center">Federico Rosenfeld</h1>
-<h3 align="center">1st year Software Engineer Student at UCA</h3>
+<h3 align="center">2nd year Software Engineer Student at UCA</h3>
 <p align="center">Technology enthusiast</p>
 
 <br/>
